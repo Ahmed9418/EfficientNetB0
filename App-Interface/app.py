@@ -8,7 +8,7 @@ import os
 # --- Configuration ---
 
 # TFLite model file name for EfficientNetB0
-MODEL_PATH = 'pathogen_model_EfficientNetB0.tflite'
+MODEL_PATH = 'App-Interface/pathogen_model_EfficientNetB0.tflite'
 # Standard input size for EfficientNetB0
 IMAGE_SIZE = (224, 224) 
 
